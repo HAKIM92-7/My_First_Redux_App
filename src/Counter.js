@@ -34,7 +34,7 @@ const Counter = (props) => {
                 
     
     <div id="count">
-    <h1>My Beatiful Counter</h1>   
+    <h1>My Beautiful Counter</h1>   
     
     
     <div id="counting_box">
