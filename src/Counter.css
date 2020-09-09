@@ -1,0 +1,29 @@
+#counting_box{
+
+
+display: flex;
+
+flex-direction: column;
+}
+
+#counting_box p {
+
+margin-top: 15px;
+
+}
+
+#count {
+
+display: flex;
+flex-direction: column;
+
+margin-top: 250px;
+
+margin-left: 600px;
+width: 500px  ;
+border: 2px black solid ;
+
+text-align: center;
+width: 300px;
+
+}
